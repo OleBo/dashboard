@@ -1,7 +1,6 @@
 # covid-dashboard
 
 ![Language](https://img.shields.io/github/languages/top/Olebo/dashboard?style=for-the-badge)
-![Code Quality](https://img.shields.io/lgtm/grade/python/github/Olebo/dashboard?style=for-the-badge)
 ![Repo Size](https://img.shields.io/github/repo-size/Olebo/dashboard?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/Olebo/dashboard?style=for-the-badge)
 ![Stars](https://img.shields.io/github/stars/Olebo/dashboard?style=for-the-badge)
